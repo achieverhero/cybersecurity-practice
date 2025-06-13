@@ -20,13 +20,3 @@ PORT     STATE  SERVICE VERSION
 80/tcp   open   http    Apache httpd 2.4.49
 
 ---
-
-## Common Use Cases
-
-Detect open ports
-
-Map network devices
-
-Find vulnerabilities
-
-Assist in penetration testing
